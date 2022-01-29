@@ -8,6 +8,9 @@ body {
   background-image: url("bk.jpeg");
 }
 
+img {
+  opacity: 0.5;
+}
 
 /* Header/Blog Title */
 .header {
